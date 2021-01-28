@@ -7,7 +7,7 @@ render(){
     return(
 
         <div>
-            hola desde dashboard
+            hola desde 
         </div>
     )
 }
